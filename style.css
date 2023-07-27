@@ -1,3 +1,18 @@
 body {
-  background: rgb(176, 176, 227);
+  background: rgb(203, 203, 227);
+}
+
+button {
+  background-color: #1048cb;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+main {
+  text-align: center;
 }
