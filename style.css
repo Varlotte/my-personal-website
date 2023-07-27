@@ -19,6 +19,7 @@ button {
 img {
   width: 100%;
   max-height: 400px;
+  object-fit: contain;
 }
 
 main {
