@@ -1,5 +1,5 @@
 const obj = {
-  "01": "Paulie and Christopher love bOb",
+  "01": "Paulie and Christopher love BoB and Hayley Williams",
   "02": "Christoher explains emotional labor",
   "03": "the fearsome gaba-ghoul, a charcuterie monster",
   "04": "thank you for changing my life, cured meats",
