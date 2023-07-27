@@ -28,6 +28,8 @@ main {
 aside {
   width: 100%;
   position: absolute;
+  opacity: 0;
+  transition: opacity 1s;
 }
 
 .image-wrapper {
@@ -37,4 +39,8 @@ aside {
   margin-bottom: 0;
   margin-left: auto;
   margin-right: auto;
+}
+
+.image-wrapper:hover aside {
+  opacity: 1;
 }
